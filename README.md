@@ -4,7 +4,7 @@ Various projects/projects from my self-learning data science
 
 ### A. Seaborn Data Visualization Cumulative Project ###
 
-  In this project, I used different types of charts to visualize different data.
+  In this project, I used different types of charts to visualize the loan awarded by Kiva. The figures are drawn by comparing the awardee's country, gender, etc.
 
 ### B.MuscleHub A/B Test ###
 
